@@ -1,0 +1,38 @@
+#main
+{
+    background-color:#DC143C;
+    color:white;
+   max-width: 100%;
+ 
+}
+#mainHeader
+{
+
+    margin-left: 35%;
+    font-size: 40px;
+   
+}
+
+#cart
+{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left:45%;
+}
+
+#mainCard
+{
+    margin-left: 70px;
+}
+
+#subItemCard
+{
+    margin-left: 15%;
+}
+
+#subItemsImage
+{
+    max-height: 300px;
+    
+}
+/*<!--commit for git--> */
